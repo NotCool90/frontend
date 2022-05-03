@@ -19,7 +19,7 @@ a {
 
 #main {
   max-width: var(--container-width);
-  margin: calc(var(--unit) * 5) auto;
+  margin: var(--unit);
 }
 
 #navigation {
