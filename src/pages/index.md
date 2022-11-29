@@ -15,7 +15,7 @@ title: Our Great Website
   </ul>
   <a href="#" class="call-to-action">Call to Action</a>
 </header>
-
+<hr>
 <section id="products" class="section">
   <h2>Our Products</h2>
   <ul>
@@ -54,10 +54,10 @@ title: Our Great Website
     </li>
   </ul>
 </section>
-
+<hr>
 <section id="about" class="section">
   <figure>
-    {% image "https://source.unsplash.com/1024x768/?beagle", "Random image of a beagle", "100%" %}
+    {% image "https://images4.fanpop.com/image/photos/17000000/Beagle-beagles-17008727-1024-768.jpg", "Random image of a beagle", "100%" %}
   </figure>
   <article>
     <p>
@@ -65,7 +65,7 @@ title: Our Great Website
     </p>
   </article>
 </section>
-
+<hr>
 <section id="blog" class="section">
   <h2>Our Latest Blog Posts</h2>
   <ul>
@@ -104,63 +104,63 @@ title: Our Great Website
     </li>
   </ul>
 </section>
-
+<hr>
 <section id="clients" class="section">
   <h2>Our Fanciest Clients</h2>
-  <ul>
+  <ul id="client">
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
     <li>
       <figure class="logo">
-        {% image "https://source.unsplash.com/200x100/?logo", "Random logo", "100%" %}
+        {% image "https://icons.iconarchive.com/icons/paomedia/small-n-flat/96/sign-check-icon.png", "Random logo", "100%" %}
       </figure>
     </li>
   </ul>
 </section>
-
+<hr>
 <section id="social" class="section">
   <h2>Follow us on Social Media!</h2>
   <ul>
@@ -170,7 +170,7 @@ title: Our Great Website
     <li><a href="#">Instabook</a></li>
   </ul>
 </section>
-
+<hr>
 <footer>
   <p>Copyright 2099</p>
 </footer>

@@ -3,8 +3,10 @@
     Colors
   */
   --color-text: #222;
+  --color-dark-text: #ccc;
   --color-background: white;
   --color-light: silver;
+  --color-dark: #212529;
   --color-primary: #7950f2;
 
   /**
@@ -12,6 +14,8 @@
   */
   --unit: 1rem;
   --container-width: 100%;
+  --icon-image-height: auto;
+  --icon-image-width: 25%;
 
   /**
     Fonts
@@ -26,4 +30,7 @@
     "Helvetica Neue",
     "Lucida Grande",
     sans-serif;
+  --font-family-size: calc(1rem + .3vw);
+  --font-family-weight: 400;
+  --font-family-text-align: left
 }
